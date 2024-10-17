@@ -14,3 +14,17 @@ print(name)
 ```
 above code will do the same but there is small difference. input value first stored in name variable. and then in print we will print the name value.
 
+## DataTypes
+- int(integer)
+- float
+- bool(boolean)
+- str(string)
+- list
+- tuple
+- set
+- dict(dictionary)
+
+**Specialized Data types**
+modules
+None (nothing)
+
